@@ -1,0 +1,8 @@
+name: visual-odometry
+channels:
+  - defaults
+  - michael_wild
+dependencies:
+  - opencv-contrib
+  - matplotlib
+  - jupyter
